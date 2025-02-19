@@ -1,0 +1,1316 @@
+{
+    "object:Moore family's house:main room:kitchen sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[87, 19]"
+    },
+    "object:Yuriko Yamamoto's house:main room:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 31]"
+    },
+    "object:Dorm for Oak Hill College:man's bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[71, 11]"
+    },
+    "object:Hobbs Cafe:cafe:behind the cafe counter": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[27, 39]"
+    },
+    "object:Yuriko Yamamoto's house:main room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[82, 91]"
+    },
+    "object:Giorgio Rossi's apartment:bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[19, 10]"
+    },
+    "object:artist's co-living space:Hailey Johnson's bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[45, 10]"
+    },
+    "object:Moreno family's house:bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 78]"
+    },
+    "object:artist's co-living space:Francisco Lopez's bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[40, 81]"
+    },
+    "object:The Willows Market and Pharmacy:store:grocery store counter": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[65, 29]"
+    },
+    "object:Lin family's house:kitchen:kitchen sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 93]"
+    },
+    "object:Dorm for Oak Hill College:Maria Lopez's room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[78, 23]"
+    },
+    "object:Carlos Gomez's apartment:main room:cooking area": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[28, 96]"
+    },
+    "object:Lin family's house:kitchen:cooking area": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[93, 33]"
+    },
+    "object:Adam Smith's house:bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[95, 40]"
+    },
+    "object:Lin family's house:Mei and John Lin's bedroom:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[104, 50]"
+    },
+    "object:Giorgio Rossi's apartment:main room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[30, 27]"
+    },
+    "persona:Hailey Johnson": {
+        "x": "26",
+        "y": "32",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Dorm for Oak Hill College:woman's bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[75, 50]"
+    },
+    "persona:Yuriko Yamamoto": {
+        "x": "28",
+        "y": "65",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "persona:Giorgio Rossi": {
+        "x": "86",
+        "y": "18",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "persona:Ryan Park": {
+        "x": "65",
+        "y": "19",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "persona:Maria Lopez": {
+        "x": "123",
+        "y": "57",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Dorm for Oak Hill College:kitchen:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[64, 22]"
+    },
+    "meta_data": "{\"persona_names\": [\"Latoya Williams\", \"Rajiv Patel\", \"Abigail Chen\", \"Francisco Lopez\", \"Hailey Johnson\", \"Arthur Burton\", \"Ryan Park\", \"Isabella Rodriguez\", \"Giorgio Rossi\", \"Carlos Gomez\", \"Klaus Mueller\", \"Maria Lopez\", \"Ayesha Khan\", \"Wolfgang Schulz\", \"Mei Lin\", \"John Lin\", \"Eddy Lin\", \"Jane Moreno\", \"Tom Moreno\", \"Tamara Taylor\", \"Carmen Ortiz\", \"Adam Smith\", \"Yuriko Yamamoto\", \"Sam Moore\", \"Jennifer Moore\"], \"agent_vision_radius\": 4, \"sec_per_step\": 10, \"name\": \"the_ville\", \"x_dim\": 140, \"y_dim\": 100}",
+    "object:Dorm for Oak Hill College:Ayesha Khan's room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[86, 55]"
+    },
+    "persona:Mei Lin:init_info": "{\"x\": 90, \"y\": 74}",
+    "object:Lin family's house:garden:house garden": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[111, 57]"
+    },
+    "object:Lin family's house:kitchen:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[96, 13]"
+    },
+    "object:Hobbs Cafe:cafe:cooking area": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[27, 35]"
+    },
+    "object:Isabella Rodriguez's apartment:bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 43]"
+    },
+    "object:Moore family's house:bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[98, 36]"
+    },
+    "object:artist's co-living space:Hailey Johnson's room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[40, 85]"
+    },
+    "object:Carlos Gomez's apartment:main room:kitchen sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[30, 36]"
+    },
+    "object:The Rose and Crown Pub:pub:bar customer seating": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[32, 77]"
+    },
+    "object:Lin family's house:Eddy Lin's bedroom:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[104, 57]"
+    },
+    "persona:Carmen Ortiz": {
+        "x": "57",
+        "y": "74",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:artist's co-living space:Abigail Chen's bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[29, 80]"
+    },
+    "object:Hobbs Cafe:cafe:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[27, 32]"
+    },
+    "object:Lin family's house:common room:shelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 88]"
+    },
+    "persona:Klaus Mueller": {
+        "x": "126",
+        "y": "46",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Carlos Gomez's apartment:main room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[30, 34]"
+    },
+    "persona:Arthur Burton": {
+        "x": "53",
+        "y": "14",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Moore family's house:main room:cooking area": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[85, 79]"
+    },
+    "object:Moreno family's house:empty bedroom:guitar": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[105, 80]"
+    },
+    "object:Arthur Burton's apartment:main room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 13]"
+    },
+    "object:Dorm for Oak Hill College:Klaus Mueller's room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[65, 71]"
+    },
+    "object:Ryan Park's apartment:main room:computer desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[34, 26]"
+    },
+    "object:Oak Hill College:library:bookshelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[29, 24]"
+    },
+    "object:Moore family's house:bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[95, 56]"
+    },
+    "object:artist's co-living space:Hailey Johnson's room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[42, 26]"
+    },
+    "object:Adam Smith's house:bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[98, 20]"
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[104, 13]"
+    },
+    "object:Moreno family's house:empty bedroom:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[104, 39]"
+    },
+    "object:Lin family's house:bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 97]"
+    },
+    "persona:Ayesha Khan": {
+        "x": "118",
+        "y": "61",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:artist's co-living space:Rajiv Patel's bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[25, 50]"
+    },
+    "object:Moreno family's house:Tom and Jane Moreno's bedroom:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[102, 89]"
+    },
+    "persona:Eddy Lin": {
+        "x": "93",
+        "y": "74",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Giorgio Rossi's apartment:main room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[26, 6]"
+    },
+    "object:Giorgio Rossi's apartment:main room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[34, 49]"
+    },
+    "object:Ryan Park's apartment:main room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[34, 29]"
+    },
+    "object:Ryan Park's apartment:bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 29]"
+    },
+    "object:Isabella Rodriguez's apartment:main room:shelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 38]"
+    },
+    "object:Giorgio Rossi's apartment:main room:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[26, 10]"
+    },
+    "object:Yuriko Yamamoto's house:bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[95, 52]"
+    },
+    "persona:Francisco Lopez": {
+        "x": "16",
+        "y": "32",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Dorm for Oak Hill College:Klaus Mueller's room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[65, 66]"
+    },
+    "object:Yuriko Yamamoto's house:bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[95, 48]"
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:kitchen:kitchen sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 57]"
+    },
+    "object:artist's co-living space:kitchen:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[35, 35]"
+    },
+    "object:Hobbs Cafe:cafe:kitchen sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[27, 37]"
+    },
+    "object:The Rose and Crown Pub:pub:shelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[35, 54]"
+    },
+    "object:Dorm for Oak Hill College:Wolfgang Schulz's room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[87, 87]"
+    },
+    "persona:Jane Moreno": {
+        "x": "72",
+        "y": "74",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Dorm for Oak Hill College:Klaus Mueller's room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[64, 31]"
+    },
+    "object:Dorm for Oak Hill College:Wolfgang Schulz's room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[85, 11]"
+    },
+    "object:Moreno family's house:bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[94, 58]"
+    },
+    "object:Arthur Burton's apartment:main room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 16]"
+    },
+    "object:Oak Hill College:library:library sofa": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[29, 18]"
+    },
+    "object:Dorm for Oak Hill College:man's bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[71, 6]"
+    },
+    "persona:Wolfgang Schulz": {
+        "x": "107",
+        "y": "62",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:artist's co-living space:kitchen:kitchen sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[35, 41]"
+    },
+    "persona:Giorgio Rossi:init_info": "{\"x\": 86, \"y\": 18}",
+    "object:Arthur Burton's apartment:bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[23, 1]"
+    },
+    "object:Giorgio Rossi's apartment:main room:blackboard": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[34, 46]"
+    },
+    "object:Yuriko Yamamoto's house:bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[98, 28]"
+    },
+    "object:Yuriko Yamamoto's house:main room:shelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[87, 9]"
+    },
+    "object:Isabella Rodriguez's apartment:bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[23, 22]"
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:Carmen Ortiz's room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[104, 17]"
+    },
+    "persona:Isabella Rodriguez": {
+        "x": "72",
+        "y": "14",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[104, 14]"
+    },
+    "object:Lin family's house:Eddy Lin's bedroom:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[104, 53]"
+    },
+    "object:Ryan Park's apartment:bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 27]"
+    },
+    "object:The Rose and Crown Pub:pub:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[28, 55]"
+    },
+    "object:artist's co-living space:Francisco Lopez's bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[39, 42]"
+    },
+    "object:Dorm for Oak Hill College:common room:common room sofa": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[72, 54]"
+    },
+    "object:Carlos Gomez's apartment:main room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[26, 13]"
+    },
+    "object:Yuriko Yamamoto's house:main room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[84, 28]"
+    },
+    "object:Harvey Oak Supply Store:supply store:behind the supply store counter": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[62, 28]"
+    },
+    "object:Ryan Park's apartment:main room:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[27, 29]"
+    },
+    "object:Moreno family's house:kitchen:kitchen sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 75]"
+    },
+    "object:Isabella Rodriguez's apartment:main room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 32]"
+    },
+    "object:Adam Smith's house:main room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 20]"
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 60]"
+    },
+    "object:artist's co-living space:Latoya Williams's room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[25, 36]"
+    },
+    "persona:Maria Lopez:init_info": "{\"x\": 123, \"y\": 57}",
+    "object:The Rose and Crown Pub:pub:cooking area": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[28, 61]"
+    },
+    "persona:Hailey Johnson:init_info": "{\"x\": 26, \"y\": 32}",
+    "object:Dorm for Oak Hill College:Maria Lopez's room:blackboard": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[79, 67]"
+    },
+    "object:Dorm for Oak Hill College:common room:common room table": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[69, 79]"
+    },
+    "persona:John Lin": {
+        "x": "91",
+        "y": "74",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Isabella Rodriguez's apartment:main room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 36]"
+    },
+    "object:artist's co-living space:Latoya Williams's room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[26, 77]"
+    },
+    "object:Moore family's house:bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[95, 60]"
+    },
+    "object:artist's co-living space:Abigail Chen's bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[29, 78]"
+    },
+    "object:artist's co-living space:Rajiv Patel's bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[25, 52]"
+    },
+    "object:artist's co-living space:Abigail Chen's bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[29, 81]"
+    },
+    "object:Dorm for Oak Hill College:kitchen:cooking area": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[68, 43]"
+    },
+    "object:Adam Smith's house:bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[95, 44]"
+    },
+    "object:Moreno family's house:common room:common room table": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[94, 50]"
+    },
+    "object:Carlos Gomez's apartment:main room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[34, 56]"
+    },
+    "object:Oak Hill College:classroom:classroom podium": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[33, 28]"
+    },
+    "object:artist's co-living space:Francisco Lopez's room:shelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[39, 35]"
+    },
+    "object:artist's co-living space:kitchen:cooking area": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[39, 61]"
+    },
+    "persona:Sam Moore": {
+        "x": "36",
+        "y": "65",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Carlos Gomez's apartment:bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[19, 13]"
+    },
+    "object:Oak Hill College:library:library table": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[34, 79]"
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[102, 71]"
+    },
+    "object:Moreno family's house:common room:shelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 69]"
+    },
+    "object:Ryan Park's apartment:main room:cooking area": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[30, 8]"
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:Carmen Ortiz's room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[104, 21]"
+    },
+    "persona:Rajiv Patel": {
+        "x": "26",
+        "y": "18",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Hobbs Cafe:cafe:cafe customer seating": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[35, 72]"
+    },
+    "object:Arthur Burton's apartment:main room:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 15]"
+    },
+    "object:artist's co-living space:kitchen:toaster": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[35, 40]"
+    },
+    "object:Lin family's house:common room:common room table": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[94, 68]"
+    },
+    "persona:Mei Lin": {
+        "x": "90",
+        "y": "74",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:common room:shelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 52]"
+    },
+    "object:Moreno family's house:kitchen:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[95, 95]"
+    },
+    "object:Arthur Burton's apartment:main room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[24, 34]"
+    },
+    "persona:Carlos Gomez": {
+        "x": "94",
+        "y": "18",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "persona:Ryan Park:init_info": "{\"x\": 65, \"y\": 19}",
+    "object:artist's co-living space:Latoya Williams's bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[29, 61]"
+    },
+    "object:artist's co-living space:Francisco Lopez's bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[45, 0]"
+    },
+    "persona:Tamara Taylor:init_info": "{\"x\": 54, \"y\": 74}",
+    "object:Isabella Rodriguez's apartment:main room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[23, 13]"
+    },
+    "persona:Yuriko Yamamoto:init_info": "{\"x\": 28, \"y\": 65}",
+    "object:artist's co-living space:Latoya Williams's bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[25, 42]"
+    },
+    "object:Moore family's house:main room:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 39]"
+    },
+    "object:Harvey Oak Supply Store:supply store:supply store counter": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[65, 8]"
+    },
+    "object:artist's co-living space:Rajiv Patel's room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[25, 45]"
+    },
+    "object:Yuriko Yamamoto's house:main room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 28]"
+    },
+    "object:Moore family's house:main room:common room sofa": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[84, 40]"
+    },
+    "object:Adam Smith's house:main room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[84, 23]"
+    },
+    "persona:John Lin:init_info": "{\"x\": 91, \"y\": 74}",
+    "persona:Abigail Chen": {
+        "x": "36",
+        "y": "18",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Dorm for Oak Hill College:garden:dorm garden": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[54, 49]"
+    },
+    "object:Moreno family's house:common room:harp": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[93, 11]"
+    },
+    "object:Harvey Oak Supply Store:supply store:supply store product shelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[67, 77]"
+    },
+    "counter:max_step": "0",
+    "object:The Willows Market and Pharmacy:store:behind the grocery counter": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[62, 49]"
+    },
+    "object:Dorm for Oak Hill College:Maria Lopez's room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[81, 3]"
+    },
+    "object:Arthur Burton's apartment:bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 20]"
+    },
+    "object:Yuriko Yamamoto's house:main room:kitchen sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[87, 11]"
+    },
+    "persona:Ayesha Khan:init_info": "{\"x\": 118, \"y\": 61}",
+    "object:Tamara Taylor and Carmen Ortiz's house:bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 61]"
+    },
+    "object:Moore family's house:main room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[84, 36]"
+    },
+    "object:Oak Hill College:classroom:classroom student seating": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[33, 32]"
+    },
+    "object:The Rose and Crown Pub:pub:kitchen sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[28, 60]"
+    },
+    "persona:Tom Moreno:init_info": "{\"x\": 73, \"y\": 74}",
+    "object:Lin family's house:Mei and John Lin's bedroom:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[103, 7]"
+    },
+    "persona:Arthur Burton:init_info": "{\"x\": 53, \"y\": 14}",
+    "persona:Adam Smith": {
+        "x": "20",
+        "y": "65",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:garden:house garden": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[112, 52]"
+    },
+    "counter:cluster_action_counter": "0",
+    "object:Moreno family's house:Tom and Jane Moreno's bedroom:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[104, 32]"
+    },
+    "object:Lin family's house:bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[94, 76]"
+    },
+    "object:Ryan Park's apartment:main room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[27, 25]"
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:Carmen Ortiz's room:guitar": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[105, 62]"
+    },
+    "object:artist's co-living space:Rajiv Patel's bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[29, 71]"
+    },
+    "object:Adam Smith's house:main room:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 23]"
+    },
+    "object:Hobbs Cafe:cafe:piano": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[37, 22]"
+    },
+    "object:Dorm for Oak Hill College:Wolfgang Schulz's room:game console": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[86, 49]"
+    },
+    "object:Giorgio Rossi's apartment:main room:kitchen sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[30, 29]"
+    },
+    "object:artist's co-living space:Hailey Johnson's bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[39, 52]"
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[94, 40]"
+    },
+    "object:artist's co-living space:Hailey Johnson's bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[40, 91]"
+    },
+    "object:Oak Hill College:classroom:blackboard": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[29, 9]"
+    },
+    "object:The Willows Market and Pharmacy:store:grocery store shelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[69, 53]"
+    },
+    "object:Lin family's house:Eddy Lin's bedroom:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[104, 55]"
+    },
+    "persona:Tamara Taylor": {
+        "x": "54",
+        "y": "74",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "counter:base_step": "0",
+    "persona:Eddy Lin:init_info": "{\"x\": 93, \"y\": 74}",
+    "object:Carlos Gomez's apartment:main room:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[26, 17]"
+    },
+    "object:Dorm for Oak Hill College:common room:pool table": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[72, 60]"
+    },
+    "object:artist's co-living space:Francisco Lopez's room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[40, 76]"
+    },
+    "object:artist's co-living space:Hailey Johnson's room:easel": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[39, 46]"
+    },
+    "object:artist's co-living space:common room:common room table": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[39, 56]"
+    },
+    "persona:Rajiv Patel:init_info": "{\"x\": 26, \"y\": 18}",
+    "object:Giorgio Rossi's apartment:bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[19, 6]"
+    },
+    "object:Dorm for Oak Hill College:Maria Lopez's room:computer": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[76, 86]"
+    },
+    "object:Dorm for Oak Hill College:Ayesha Khan's room:shelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[80, 94]"
+    },
+    "object:artist's co-living space:Francisco Lopez's room:easel": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[43, 57]"
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:common room:common room table": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[94, 32]"
+    },
+    "object:Dorm for Oak Hill College:man's bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[71, 9]"
+    },
+    "object:artist's co-living space:Abigail Chen's room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[25, 56]"
+    },
+    "object:The Rose and Crown Pub:pub:microphone": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[35, 61]"
+    },
+    "object:Moreno family's house:Tom and Jane Moreno's bedroom:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[104, 31]"
+    },
+    "persona:Klaus Mueller:init_info": "{\"x\": 126, \"y\": 46}",
+    "object:artist's co-living space:Rajiv Patel's room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[26, 87]"
+    },
+    "object:Dorm for Oak Hill College:Wolfgang Schulz's room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[80, 87]"
+    },
+    "persona:Abigail Chen:init_info": "{\"x\": 36, \"y\": 18}",
+    "object:Moreno family's house:kitchen:cooking area": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[93, 15]"
+    },
+    "object:Dorm for Oak Hill College:Wolfgang Schulz's room:lifting weight": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[82, 30]"
+    },
+    "object:Arthur Burton's apartment:main room:shelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 17]"
+    },
+    "persona:Francisco Lopez:init_info": "{\"x\": 16, \"y\": 32}",
+    "persona:Jennifer Moore:init_info": "{\"x\": 37, \"y\": 65}",
+    "object:Ryan Park's apartment:main room:kitchen sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[31, 48]"
+    },
+    "object:Giorgio Rossi's apartment:main room:cooking area": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[28, 89]"
+    },
+    "object:Moreno family's house:empty bedroom:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[104, 35]"
+    },
+    "object:artist's co-living space:Rajiv Patel's room:easel": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[31, 5]"
+    },
+    "object:The Rose and Crown Pub:pub:behind the bar counter": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[28, 58]"
+    },
+    "persona:Jane Moreno:init_info": "{\"x\": 72, \"y\": 74}",
+    "object:Dorm for Oak Hill College:woman's bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[81, 10]"
+    },
+    "object:Lin family's house:Mei and John Lin's bedroom:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[104, 49]"
+    },
+    "object:artist's co-living space:Abigail Chen's room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[25, 60]"
+    },
+    "object:artist's co-living space:Latoya Williams's bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[25, 40]"
+    },
+    "object:Dorm for Oak Hill College:Klaus Mueller's room:game console": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[65, 68]"
+    },
+    "object:Arthur Burton's apartment:bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 22]"
+    },
+    "object:Moreno family's house:garden:house garden": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[115, 58]"
+    },
+    "object:artist's co-living space:common room:common room sofa": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[42, 35]"
+    },
+    "object:artist's co-living space:Rajiv Patel's room:guitar": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[29, 68]"
+    },
+    "object:Carlos Gomez's apartment:bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[19, 15]"
+    },
+    "object:Dorm for Oak Hill College:kitchen:toaster": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[64, 20]"
+    },
+    "object:artist's co-living space:Francisco Lopez's room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[44, 96]"
+    },
+    "persona:Sam Moore:init_info": "{\"x\": 36, \"y\": 65}",
+    "object:artist's co-living space:Latoya Williams's room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[28, 16]"
+    },
+    "object:Isabella Rodriguez's apartment:bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 41]"
+    },
+    "object:Dorm for Oak Hill College:woman's bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[75, 51]"
+    },
+    "object:Isabella Rodriguez's apartment:main room:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 35]"
+    },
+    "object:Adam Smith's house:main room:kitchen sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[87, 3]"
+    },
+    "persona:Wolfgang Schulz:init_info": "{\"x\": 107, \"y\": 62}",
+    "object:Moreno family's house:bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 79]"
+    },
+    "object:Carlos Gomez's apartment:bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[19, 17]"
+    },
+    "persona:Adam Smith:init_info": "{\"x\": 20, \"y\": 65}",
+    "object:Lin family's house:bathroom:toilet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 96]"
+    },
+    "persona:Carmen Ortiz:init_info": "{\"x\": 57, \"y\": 74}",
+    "object:Moore family's house:main room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[85, 77]"
+    },
+    "object:Adam Smith's house:main room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[87, 1]"
+    },
+    "persona:Carlos Gomez:init_info": "{\"x\": 94, \"y\": 18}",
+    "object:Giorgio Rossi's apartment:bathroom:bathroom sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[19, 8]"
+    },
+    "object:Johnson Park:park:park garden": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[67, 45]"
+    },
+    "object:The Willows Market and Pharmacy:store:behind the pharmacy counter": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[73, 55]"
+    },
+    "persona:Isabella Rodriguez:init_info": "{\"x\": 72, \"y\": 14}",
+    "object:The Willows Market and Pharmacy:store:pharmacy store shelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[66, 56]"
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:kitchen:refrigerator": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[95, 77]"
+    },
+    "object:Dorm for Oak Hill College:Maria Lopez's room:closet": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[76, 82]"
+    },
+    "persona:Latoya Williams": {
+        "x": "16",
+        "y": "18",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "persona:Latoya Williams:init_info": "{\"x\": 16, \"y\": 18}",
+    "object:artist's co-living space:Latoya Williams's room:shelf": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[29, 56]"
+    },
+    "object:artist's co-living space:Hailey Johnson's room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[45, 6]"
+    },
+    "object:Arthur Burton's apartment:main room:guitar": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[22, 93]"
+    },
+    "object:Ryan Park's apartment:bathroom:shower": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[20, 25]"
+    },
+    "persona:Tom Moreno": {
+        "x": "73",
+        "y": "74",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Dorm for Oak Hill College:Ayesha Khan's room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[80, 98]"
+    },
+    "object:artist's co-living space:Abigail Chen's room:desk": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[31, 16]"
+    },
+    "object:Moreno family's house:garden:garden chair": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[111, 32]"
+    },
+    "object:Yuriko Yamamoto's house:main room:cooking area": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[85, 71]"
+    },
+    "persona:Jennifer Moore": {
+        "x": "37",
+        "y": "65",
+        "step": "0",
+        "status": "idle",
+        "action": ""
+    },
+    "object:Moore family's house:main room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[91, 36]"
+    },
+    "object:The Willows Market and Pharmacy:store:pharmacy store counter": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[73, 58]"
+    },
+    "object:Dorm for Oak Hill College:Ayesha Khan's room:bed": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[86, 58]"
+    },
+    "object:Adam Smith's house:main room:cooking area": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[85, 63]"
+    },
+    "object:Tamara Taylor and Carmen Ortiz's house:kitchen:cooking area": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[92, 97]"
+    },
+    "object:Dorm for Oak Hill College:kitchen:kitchen sink": {
+        "status": "idle",
+        "movable": "0",
+        "center": "[64, 21]"
+    }
+}

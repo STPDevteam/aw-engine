@@ -1,0 +1,2 @@
+redis-cli flushall
+python3 generative_proceed_test.py

@@ -1,0 +1,19 @@
+Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Reasoning: []
+Answer in "yes" or "no": []
+---
+Context: Maria Lopez was checking her schedule and making a to-do list for the day. Klaus Mueller was organizing his notes and creating an outline for his paper. 
+ 
+Right now, it is February 13, 2023, 10:04:30 AM. Maria Lopez and Klaus Mueller last chatted at  about . 
+Maria Lopez is on the way to walking to her physics class 
+Klaus Mueller is on the way to organizing his notes and creating an outline for his paper 
+
+Question: Would Maria Lopez initiate a conversation with Klaus Mueller? 
+
+Reasoning: Let's think step by step. 
+
+~~~ output    ----------------------------------------------------
+yes 

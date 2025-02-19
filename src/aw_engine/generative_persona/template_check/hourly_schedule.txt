@@ -1,0 +1,20 @@
+Name: Isabella Rodriguez
+Age: 34
+Innate traits: friendly, outgoing, hospitable
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+[(ID:Lar8pR) Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping
+[(ID:eyympv) Monday February 13 -- 01:00 AM] Activity: Isabella is sleeping
+[(ID:4sqOpG) Monday February 13 -- 02:00 AM] Activity: Isabella is sleeping
+[(ID:1jQusI) Monday February 13 -- 03:00 AM] Activity: Isabella is sleeping
+[(ID:Z3VowK) Monday February 13 -- 04:00 AM] Activity: Isabella is sleeping
+[(ID:LQ95IE) Monday February 13 -- 05:00 AM] Activity: Isabella is sleeping
+
+
+Here the originally intended hourly breakdown of Isabella's schedule today: 1) wake up and complete the morning routine at 6:00 am, 2) head to Hobbs Cafe and open for business at 8:00 am, 3) work at the counter until 8:00 pm, 4) spend time gathering materials and planning for the Valentine's Day party tomorrow, 5) have dinner and wind down at home
+[(ID:bPVdBM) Monday February 13 -- 06:00 AM] Activity: Isabella is 
